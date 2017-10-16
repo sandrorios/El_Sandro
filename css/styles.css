@@ -1,8 +1,41 @@
+
+body {
+
+  margin-top: 100px;
+}
+
 .container {
 
-  width: 50%;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
   margin: auto;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+  padding: 60px;
   border: 1px solid black;
   background: lightgray;
 
+}
+.main {
+width: 400px;
+border: 11px solid red;
+
+
+}
+
+header {
+
+  text-align:center;
+  color: gray;
+  text-shadow: 1px 1px 1px black;
+}
+
+footer {
+
+  margin-top: 80px;
+  font-weight: bold;
+  text-align: center;
+  color: red;
+  text-shadow: 1px 1px 1px white;
 }
